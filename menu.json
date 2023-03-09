@@ -1,0 +1,102 @@
+{
+    "menus": [
+        {
+            "id": "2023",
+            "title": {
+                "en": "Menu 01"
+            },
+            "subtitle": {
+                "en": null
+            },
+            "service_availability": [],
+            "category_ids": "206545"
+        }
+    ],
+    "categories": [
+        {
+            "id": "206545",
+            "title": {
+                "en": "Normal Items"
+            },
+            "subtitle": {
+                "en": null
+            },
+            "entities": [
+                {
+                    "id": "A1",
+                    "type": "ITEM"
+                },
+                {
+                    "id": "A8",
+                    "type": "ITEM"
+                },
+                {
+                    "id": "A5",
+                    "type": "ITEM"
+                },
+                {
+                    "id": "A4",
+                    "type": "ITEM"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "A1",
+            "external_data": "A1",
+            "title": {
+                "en": "BBQ CHEESEBURGER^ (W MAYO SWIRL TOP)"
+            },
+            "description": {
+                "en": "sample description"
+            },
+            "image_url": "https://deliverit-vhosts-sync.s3-ap-southeast-2.amazonaws.com/dev.dsoftonline.com.au/teststore02/uploads/Chicken_Aspargus_MG_2860.jpg",
+            "price_info": {
+                "price": 1
+            }
+        },
+        {
+            "id": "A8",
+            "external_data": "A8",
+            "title": {
+                "en": "CABANOSSI"
+            },
+            "description": {
+                "en": "sample description"
+            },
+            "image_url": "https://deliverit-vhosts-sync.s3-ap-southeast-2.amazonaws.com/dev.dsoftonline.com.au/teststore02/uploads/Capriciossa_MG_2752.jpg",
+            "price_info": {
+                "price": 10
+            }
+        },
+        {
+            "id": "A5",
+            "external_data": "A5",
+            "title": {
+                "en": "CHEESE AND BACON"
+            },
+            "description": {
+                "en": "sample description"
+            },
+            "image_url": "https://deliverit-vhosts-sync.s3-ap-southeast-2.amazonaws.com/dev.dsoftonline.com.au/teststore02/uploads/Satay_Chicken.png",
+            "price_info": {
+                "price": 1
+            }
+        },
+        {
+            "id": "A4",
+            "external_data": "A4",
+            "title": {
+                "en": "CHEESE TRIO"
+            },
+            "description": {
+                "en": "sample description"
+            },
+            "image_url": "https://deliverit-vhosts-sync.s3-ap-southeast-2.amazonaws.com/dev.dsoftonline.com.au/teststore02/uploads/Calzone_Nutella_MG_9684.jpg",
+            "price_info": {
+                "price": 1
+            }
+        }
+    ]
+}
